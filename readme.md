@@ -9,6 +9,6 @@ some commands
 
 `git commit`: to submit modifying information
 
-first time to push.
-`git remote add origin https://github.com/Chenyu91/sharedbook.git`
+first time to push.  
+`git remote add origin https://github.com/Chenyu91/sharedbook.git`  
 `git push -u origin master` 
