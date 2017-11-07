@@ -1,6 +1,3 @@
-It's a private repository that shared with cczzyy13.
-
-
 some commands
 
 `git clone`: to download the repository
